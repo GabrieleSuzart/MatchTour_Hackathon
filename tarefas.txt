@@ -1,0 +1,24 @@
+index.html
+
+turistas
+guias de turismo
+condutor de turismo
+matchs
+
+MENU LATERAL:
+1 - turistas(listar,administrar) 
+2 - guias de turismo(listar, administrar)
+3 - condutores de turismo(listar, administrar)
+4 - pontos turisticos(cadastrar,listrar,administrar)
+5 - Eventos (cadastrar,listrar,administrar)
+6 - gráficos(listar)
+7 - mapa(listar)
+
+index - colocar tabela "top Campaigns" do tables - icaro
+turistas - colocar tabela 1 - magno
+guias - colocar tabela 1 - icaro
+condutores - colocar tabela 1 - magno
+pontos turisticos - colocar tabela 1 - icaro
+eventos - colocar tabela 1 - magno
+gráficos - pizza:mais visitados - emergentes - icaro - histórico de cada ponto
+mapa - google maps - magno
